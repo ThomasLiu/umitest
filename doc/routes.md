@@ -1,3 +1,15 @@
+
+## 构建约定式路由
+在 pages 目录下构建以下文件
+```
++ pages/
+  + users/
+    - index.js
+    - list.js
+  - index.js
+```
+把 /pages/index.js 改成 
+```
 import styles from './index.css';
 
 export default () => {
@@ -12,3 +24,5 @@ export default () => {
     </div>
   );
 }
+```
+把
