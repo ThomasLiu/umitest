@@ -43,3 +43,8 @@ $ yarn start
 
 ## Documents
 [构建约定式路由](https://github.com/ThomasLiu/umitest/tree/master/doc/routes.md)
+
+[在页面间跳转](https://github.com/ThomasLiu/umitest/tree/master/doc/link.md)
+
+
+[Mock 数据](https://github.com/ThomasLiu/umitest/tree/master/doc/mockjs.md)
